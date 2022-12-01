@@ -25,3 +25,11 @@
   right: 10px;
   cursor: pointer;
 }
+
+.quiz {
+  background-image: url(./football-field-1428839_960_720.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: scroll;
+}
